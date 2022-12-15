@@ -1,7 +1,7 @@
 ###  Hey! I'm Nicholas 👋
-- 👨🏻‍💻 Full-stack software developer
-- 📚 Focused on learning and growth
-- ⚓  Background in Maritime Industry
+- 👨🏻‍💻 Full-Stack Software Developer.
+- 📚 Focused on learning and growth.
+- ⚓  Background in the Maritime Industry.
 - 💌 [Let's connect!](https://www.linkedin.com/in/nicholas-botorog/)
 
 <!---
